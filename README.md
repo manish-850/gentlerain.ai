@@ -42,7 +42,7 @@ gentlerain-clone/
 
 ## 🎮 Demo
 
-👉 [Live Demo Link](#) *https://manish-850.github.io/gentlerain.ai/*  
+👉 [Live Demo Link](https://manish-850.github.io/gentlerain.ai/)
 
 ---
 
