@@ -65,7 +65,7 @@ gentlerain-clone/
    ```
 2. Navigate to project folder  
    ```bash
-   cd gentlerain-clone
+   cd gentlerain.ai
    ```
 3. Open `index.html` in your browser 🚀  
 
