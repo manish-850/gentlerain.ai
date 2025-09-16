@@ -49,7 +49,6 @@ gentlerain-clone/
 ## 📸 Preview
 
 ![Gif Preview](./img/gentlerain_preview.gif)
-```
 
 ---
 
