@@ -46,13 +46,12 @@ gentlerain-clone/
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
 > Add screenshots of your website here:
 
 ```
-![Screenshot 1](./screenshots/s1.png)
-![Screenshot 2](./screenshots/s2.png)
+![Gif Preview](./img/gentlerain_preview.gif)
 ```
 
 ---
