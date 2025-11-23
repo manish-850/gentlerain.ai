@@ -35,7 +35,7 @@ website, including: - Smooth scrolling interactions.
 
     |-- index.html
     |-- style.css
-    |-- script.js (if used)
+    |-- script.js
     |-- /img
         |-- 1.png
         |-- 2.png
@@ -44,9 +44,9 @@ website, including: - Smooth scrolling interactions.
 
 ## Notes
 
--   This project is meant for educational and learning purposes.\
+-   This project is meant for educational and learning purposes.
 -   All branding, concepts, and assets belong to **gentlerain.ai** and
-    their respective owners.\
+    their respective owners.
 -   This clone does not include backend functionality.
 
 ## Author
