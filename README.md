@@ -14,6 +14,10 @@ website, including: - Smooth scrolling interactions.
 - Section‑based storytelling layout
 - Clean typography and structured content blocks
 
+## Preview
+
+![preview](./img/gentlerain_preview.gif)
+
 ## Features
 
 -   Hero section with canvas animation
